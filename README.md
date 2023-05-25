@@ -3,5 +3,5 @@
 A simple js game - put balls of one color on one line to make them disappear.<br />
 Link to play: <br />
 <br />
-Writed it when started learn js. <br />
+Coded it when started learn js. <br />
  
